@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1C97Ed268dD1091c44b636D4Cf8a0541cd11274a",
+  "SCAN_LINK": "https://etherscan.io/address/0x1C97Ed268dD1091c44b636D4Cf8a0541cd11274a",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 1
+  },
+  "NFT_NAME": "PiggyEscape",
+  "SYMBOL": "PE",
+  "MAX_SUPPLY": 705,
+  "WEI_COST": 6000000000000000,
+  "DISPLAY_COST": 0.006,
+  "GAS_LIMIT": 30000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/piggyescape",
+  "SHOW_BACKGROUND": true
+}
