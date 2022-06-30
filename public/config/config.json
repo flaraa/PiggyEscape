@@ -10,7 +10,7 @@
   "SYMBOL": "PE",
   "MAX_SUPPLY": 705,
   "WEI_COST": 6000000000000000,
-  "DISPLAY_COST": 0.006,
+  "DISPLAY_COST": 0,
   "GAS_LIMIT": 30000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/piggyescape",
